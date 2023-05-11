@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -l
-ls -l /alx-system_engineering-devops
-ls -l /root
+ls -l /alx-system_engineering-devops/ /root/
